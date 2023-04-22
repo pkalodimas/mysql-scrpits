@@ -1,4 +1,4 @@
-# mysql-scrpits
+# mysql-scripts
 This repository contains scripts for backing up and restore MySQL databases.
 It is using the mysqldump tool and the linux sed to apply exported scripts cleanup
 
